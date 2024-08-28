@@ -1,1 +1,191 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _BqJZKLgIFslI = a; end)); return(function(f,...)local r;local y;local t;local c;local l;local o;local e=24915;local n=0;local d={};while n<128 do n=n+1;while n<0x10b and e%0x4796<0x23cb do n=n+1 e=(e-212)%42875 local h=n+e if(e%0x1542)<=0xaa1 then e=(e+0x29b)%0x9f9f while n<0x92 and e%0x281a<0x140d do n=n+1 e=(e*629)%5184 local t=n+e if(e%0x19b6)>0xcdb then e=(e+0x24f)%0x7e25 local e=71546 if not d[e]then d[e]=0x1 o=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x114)%0x513 local e=25758 if not d[e]then d[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\77\99\88\120\68\95\70\109\0\6\115\116\114\105\110\103\4\99\104\97\114\67\76\104\71\109\119\122\111\0\6\115\116\114\105\110\103\3\115\117\98\120\108\82\108\115\119\73\109\0\6\115\116\114\105\110\103\4\98\121\116\101\114\87\88\65\95\104\117\111\0\5\116\97\98\108\101\6\99\111\110\99\97\116\65\115\106\111\87\81\76\88\0\5\116\97\98\108\101\6\105\110\115\101\114\116\82\72\95\73\76\72\100\106\5";end else e=(e*0x362)%0x455d n=n+1 local e=61039 if not d[e]then d[e]=0x1 y=string;end end end elseif e%2~=0 then e=(e*0x3e9)%0x330b while n<0x3c9 and e%0x1918<0xc8c do n=n+1 e=(e-247)%11226 local t=n+e if(e%0x1bfc)<=0xdfe then e=(e-0x26f)%0x183e local e=40734 if not d[e]then d[e]=0x1 r={};end elseif e%2~=0 then e=(e+0x3ac)%0xc044 local e=87435 if not d[e]then d[e]=0x1 c=tonumber;end else e=(e-0x29d)%0x5e29 n=n+1 local e=11492 if not d[e]then d[e]=0x1 o=(not o)and _ENV or o;end end end else e=(e-0x174)%0xae43 n=n+1 while n<0x1cd and e%0x2574<0x12ba do n=n+1 e=(e-620)%12806 local l=n+e if(e%0x4184)>0x20c2 then e=(e+0xb3)%0x542e local e=15641 if not d[e]then d[e]=0x1 end elseif e%2~=0 then e=(e+0x363)%0x1d15 local e=69402 if not d[e]then d[e]=0x1 end else e=(e*0xde)%0x4ec6 n=n+1 local e=62363 if not d[e]then d[e]=0x1 t=function(t)local e=0x01 local function d(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=y.byte(d(0x01))local e=d(e)if n=="\2"then e=r.McXxD_Fm(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then o[e]=function(n,e)return f(8,nil,f,e,n)end elseif n=="\4"then e=o[e]elseif n=="\0"then e=o[e][d(y.byte(d(0x01)))];end local n=d(0x08)r[n]=e end end end end end end end e=(e+509)%982 end t(l);local n={};for e=0x0,0xff do local d=r.CLhGmwzo(e);n[e]=d;n[d]=e;end local function h(e)return n[e];end local h=(function(f,y)local l,d=0x01,0x10 local n={{},{},{}}local o=-0x01 local e=0x01 local t=f while true do n[0x03][r.xlRlswIm(y,e,(function()e=l+e return e-0x01 end)())]=(function()o=o+0x01 return o end)()if o==(0x0f)then o=""d=0x000 break end end local o=#y while e<o+0x01 do n[0x02][d]=r.xlRlswIm(y,e,(function()e=l+e return e-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 r.RH_ILHdj(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return r.AsjoWQLX(n[0x01])end);t(h(39,"IsNHRLEmj_)e-<nz<n"));t(h(169,"&XcO*f_kNBqxR#d:fkx*kN#;cfkOR:X:XORqOcNX#xXck:dqOkNBRkydNxkd#_BNdcOkBB:{OdNN#:*NBRdXONB*B*d:xX?qfNx*XXfdxXXfOqBqYBf_R:qRPBR#cfkqRNc*k*_BcNkO##cOk:dfL#N_dkOf_xR:ORc_NX*XNR:_*XOf:O*cBq^*fOqQ#k*xNB:q_*xSzR:_ffXOfRRcXc_XRk4xkfxBXXkcRcX:_OqqcR_Nqx5XfRk<RxNddnOxBOdNO_BcdccxB*Rk*fN*:!c#qcNqd_qR:y*NqB:B:Xxkak_QqN X_lxcHR_NR*)Xk*xqXRsN_Xckkk#IXNkX#mX*fBxc>OkRdBX:NckN#sBcdxOBBf:c*BBdRk*RNc:BcNkkBXdqqd:kffqf:q_cBkGo_*q::*fXR_:d:#fNXN_OR#XNQRR*cXkx#ccRfO#BXckfd_D:kqd-Rd"));local e=(-218+(function()local t,e=0,1;(function(e,o,n,d)d(e(d,n,o and o,e),d(n,n and e,d,e),d(n,e and e,e,e),n(n,n and e,n,e)and o(n,d,e,o and o))end)(function(o,y,n,d)if t>483 then return d end t=t+1 e=(e-749)%49819 if(e%244)>=122 then e=(e+866)%2080 return d else return d(n(n,o,y,d),o(n,n,d,n and d),o(n,y,d and y,o)and y(d,o,n,o),n(y,o,d,d))end return d(n(y,d,o,n),y(o,n and n,d,n and d),d(o,n,y and y,o and o),d(n,n and y,n and o,d))end,function(o,d,n,y)if t>189 then return o end t=t+1 e=(e-45)%7846 if(e%682)>=341 then e=(e+400)%29697 return d(d(n,n,y,n),n(y,d,d and o,o),d(n,n,n,o),y(o,d,o,y))else return d end return y end,function(y,o,n,d)if t>406 then return n end t=t+1 e=(e+633)%21788 if(e%572)<286 then e=(e-170)%15873 return n else return d(n(n,d,y,d),d(o,d,n,o),o(n,o,n,n),o(n,o,n,n))end return n(n(d,d,n,d),y(d and o,o,n,y),o(y and o,n,o and n,d),n(n,d,d,o)and d(o,y and n,o,d))end,function(d,n,y,o)if t>347 then return n end t=t+1 e=(e+659)%20464 if(e%1332)<=666 then e=(e*855)%36549 return n(n(n and y,o,d and d,y),n(o,n and o,y and d,d),d(o,n,y,n),n(o,n,n,d))else return d end return y end)return e;end)())local ye=(getfenv)or(function()return _ENV end);local p=r.XFHBdzYe or r.finsYudo;local t=3;local l=4;local o=2;local j=1;local function oe(s,...)local a=h(e,"/IyP=we2Y+{io-pc22oA{DYsey==yg1jp1I=5wcY-==yycSFp0oTpecyociP+=2+PJyYbcpwop{++YPPI=o_{AYZem=MyVl(p_o9{fYter=Ay)6KpFP+p9Yyee=1y!A7yPycgopc-y2Pyy>wpBo3{Z-w{={+Y-PypyoI{NYHel2=yyy2pnoH{,-=oY{++Py^=ey+NopwYsi2YI2P;5P5Iypc-={wYP2==wy=o.c2o+i=YYy%y-yc_cppiP{wYPytPecP{;I{c+-+i+++2+Y+-cYy2y=*y6mhPPyPIypcoo{oeyeIwyI=KYp+oP{iYpewwPPP{yY=e5=Wyvwwy=y+L-Yye+=Dy8JmPPycIyc={ciyY=ewwyoy{2YOe1=XePecwyywp2cwo+=yyoG8pao<cPpcop{+YPwy=+y=#wcy+P2Syylyp_o9{^iI+I=yypJLp5o7pPcy-+iP+=eI=oIPI=pc-y{-w+P+pyoy{;Y#e<2Iwf4ypIoA{ZYm+Y=yypuOp^o3cPc=oIiy+y2+yiyp4+p2oYi=w2P2pbyeCepeoe{eYepeIcoy{{Yue>=O2=2wwyyy3coIoP{wwePepyoo{WYbeBYPYc2y=pywIy-yoI{=Y+2wwPoy{2YWeh=6ePec=pypgwpP-==yy-}Hp8o?popcoI{=Y+ep=2IPKPcyow{wYp<ypIod{WYA+P=yyojSp9oEcPc=oIiy+=yQy=PwI0p+op{2yytip.o&{roPoY{w+P2=*G)-u+p-o+{Pyy,-p}o3{Uo--+iP+=e+=PX=Iycwo+{=wwPepyoo{_YdeTYoY+2e=wVolcp2{eiyYIe-=woy{-Y%e?=72se+wYywEo-eociy+=ewwYcY-+Y;e_=?yA_RpG^5Ac=Qey=Iyk?Sp7cI{yY{ej=By3w==+P=nopw{o{IYyew=ooy{pYte}=U2PeY=Iy=Ecc2{YiwYp2==wPy-=iweZ=Byx!<p.oX{C+={<=yPP}Op)ospIpy-P{cYo2ww=ywpPpcopi=Ywepw=IP8+c{ow=yy{.7p_onp+p-oI{2Yw=o=Iyy7wpoey=ey;_hpKPyJIppo={cY-_ycDo:{7YN{y{IYPei=2PyMccwop{=ePec=oycIyiPe9=HyLW9p.oQ{Vi+{Z=)yQ:Opxof{^Y%i+9?yyI.pZo%{%oyociP+PyOyoPwDPpi-+emeyeo=cyPtiYyeI=&y>x;Ieoy{{YHe:=l2=ewwYP=pycw-=i=Yceppyo-{?Y,ex+I+weI=pP=Iwp-{w{PYYecI+cI{yY2e}= y0===wPPI=cyoci+yyVop4o_{g-yowi=+yecy2yIG-pw-y+Yww}_plof{6Y&e)=xe+=!p6ox{!Y0e(=Mp!ey{Soy{+Y^ea=*e=2y=Iy2*2pIoy{oYw0yp-os{FYa{oiwYpeIwyEi>pp+o2{Y+=P=Iwoy{cYqe?=geP2yw+PPI=pIoo+eYc2yw=ywIYie+2=yypD4pJo<cIcwoI{p+=2w=-IPI=pc-y{-wIPypyoo{NYCe:Y-++2Pw=y+JP-2oIieYwPyI+oy{pY)eK=qe-2+wPP=k+pP{i{pY+e2=YP=-PiPey=Yyl9Wpux+5pcP-={IYpeP=woy{YYdeh=62w=+yPycIyppowiyyydppEom{Noeo+{w+yeP=w}=IypIo2{cYpP=I2oR{AY:eX=#yNoD=yLU{yYoes=hy7=I=wPy8coPoY{I+PewwycI-IYyec=5y%6,PePy^IppiYiPeY2w=y{-=MPp=-c{iX&yp2ou{tYq{o{++eewyoyc82YyeY=_y*KuPzycIPp+-={+YceppPoI{yYYeA=ryk=o=+Pe)w{k{o{cY2vyppoF{lYA{eiyYc2Pw=ywW=opo+{pY{eIIPc={yY2eA=VyX=P=IPyI=pcoc{py9,gp,ok{EY0exe=eXC4p5of{RY(eH=4y_=6pyoP{xYreC{pYw22pyoe{7Y}ed+_YI2y=wypI=Yyeo=EyO!tPws+pop+-Pi=eoeIw+ycIwc=e3=qyJ3up*o#{Xo+y6=yy+u p;oUp-pIo+{pee2y=Iy-twYye-=!y,>?yPycIPp-o+{P2P2==cPyX-i+++=yypGFpHovc=pY-w{pY=ewwyIOIwpo-P{ww+PIpyop{TY*ebYe+yecwPP=Vwp=iPi=Yc2y=-cy-2Yyei=by LGywPOb+pP{2{IY-ewwyIY-2YyeI=0y._QI+oy{-YZeV=t2I2w=IypI=cwo-YwYPeY=cc=-wYke =tytBSpNoL+>icey=IyJ?8pDc2{MYOe^=3yFzOwje2pdY7eC=WyU8rp(ok-YoOey=-y8:QpbIHl+cYow{oeiep=+y2zYc=+Y2Yyy!-pgoC{t-PoY{IY=ecw2IyT+p=owiyw=P=pyoo{TY?eRYoY+2e=w>oXcp2i={++=eo=woy{=YLet=B2Pe+w{yw{yYee)=zyl=I=PP=,+ceow=yyi.>pOo_cPc=oIiye2eI=-ywIyi2+2=yypkLpGoBp2pIoo{IYP2==+yPpppc-e{IwyPPpy-I{BY4eXYY+we2=wpcpwppoP{YYIepw=prpppIo-{wyyuipbo,{DoooIi+Yc2ww=McIyp=owiyy&5(p4o&{AY<e:2=eFTypwoZ{CYL{eiyYIe-=woy{-YXe^=!2=eYwwypT=pw-yYyYceow=c2-eYyeo=EyXNDyyyoHIc{ow+yY+e==wPy-Iiyey==y?8Up!y-WIc=oY=yy=8apMospppIo-{wyyGwpFo;{1o+o-{IY2ewpy-Y{fYne#iyYy2Y=IPPIPpw-={+Y=P{9cpc-IiY+22wwIP=I=c=-Yi=+==yy2dFp^oZc=pw-Yi=eyecwYoyi3Y<e1=leyecwPPPomoPoY{w+P2=*mN-<+p-o+{Pyyscp#o9{foyociyY=ewwyIPa+c{ow+MY+2Y=wyo{yYieF=4yk=p=wyc&p-yo+{=Yw2yIYcC{yY-e_=uy6===IPy7i-KoY{cYwep=+PY-yi2ey=iyZKmpFIPI=pI-yi=ey2ww=P=zcppey=cyb9(p<M2uIpooI{P+=e+=PTyFopI-{{ww+PIpyo-{1Yge>+eYc2yw=ywIYopo+{pY{eIIPcP{1Ybef=Vy_!,{XPypaYyei=5y5!8y+y-^Ip2owYy+w2=w=yc*pYye+=_y<C!PPyPIypwow{pe22w=+oy{pYxe0=qeo2w=pyIIy-P-S{wYP2==wPy-YiYey==y.!apvP2DIp+-==yy-J9pTolpep+owiyYPewyyyoGIc{ow2Iw2!yp-o){&Y&{p{wYcepPQyYVcpwop{++YPyIyoy{=Y*eF=_eoec=2yc{fYgea=byNq_pxy+eJY<ef=>y#}!pxo<J+oWey==yv8lpDy2}Ip-ow=yy-kxp.o4c=pY-w{pY=ewwy3yLcpo-=22w2;yppo#{!Ydiy{w+=2y=cIPI*pwoPi=Yw2yIwcY{yYoev=Aymw=wwPySypc{y{oYI2{=wcI-yYyeo=ky_kDypywHcppiP{YYIe==cP2-yi2ey={y<X}p:I=4wcY-=YPYceo=cPy-PYyeI=TyUqRIyojP{I+c+-+i+++++cc{yYceZ=6yXwW=oyIrPpwoY{cYoe==wPyc=pw-Yi=ybl&pso1{.YneryAwc1yppoQ{NYKiwiyYyeI=pI2.Icy-y{+Yc2yIecY{yYiek=Ay>=w=PyYDcoyoo{I+{ewIIc+{yY{e3=,yH=P=IypIepI-P+PY+2{=woy{-YTe;= e2eI=oyIFPc=o+{PeIeP=wc=-PYy2I=1y_RHy-ycIwcPowYy+w2=w=ycZpiI{P{oY+eP=ioy{pY^eN=l2PePwyychopoo+{pY2=ewyyIh-pwey=-y0.>pGIcpycI{{+{ei=o=2A+pecPooY+yyH-pLof{.-PoY{IY=ecw2X2?Ip-owiywPP:pyoY{lYheS+=Yw2Yw=IPM+c{ow=yycUSpUoScypIo={+YIepw=>=IypIo2{cYpPwIyoyieYke&=MeyeI=Pyi 2cyociwYpe=P=Py6Ipp-Pi.YI2y=wypSPc+ey=Iy;hBpLI+{yY-ed=Nyl=y=oyII{pwiPi=+ye+=iyw-yiyey=-yV 3pWQP3ccPo-{+YP=y=oyII{pw+=2=yyk+p3ox{(-=owiY+==o=Iyy5wpoey=-yXk.p<aPI+pyowiy2eecwyP=7wcY+w2PyyM=pZox{%owopiwY-9yc+ol{FYH{-{cYcepPPywAP-ciPi=+ye+=py2IPoYo+{=Y=ew=p>II=c=-y=yyIdNp,oh-wYy2V=Uy3<_y2yIRopIoPi=Y+ePPeycIyc=owiYwyP+pyo={lY5eGYeYcepw=oy{oYBeu=U2=2wwyyy#coyoo{I+{ewIIcI{=Y<eW=MyC5.pSo%{XYnem=GyP&Rp*o%{q{ie<=xymFmpuot{1Yu+c=_y#X5pIoZ{IYAeX2YysX9p#oI{gYje^=vPYR1p8oZ{yYYeb=.y0w==wPYI=-Po+i{Ywzyp=od{EY!{e{cYp2=pyo+{)Y6ez+=Yw2Yw=JogIpyow{oyGZ}p6oN{qYFe?P^wc>yp2oL{%Y?Y#{=+w2}=wy=oNYye2=Gy39byPyIIyc=oc{cYp5yp=oK{CYgo-{I+=eYpyo={_YGen+PY+2{=woZ{*Y%eG=;y9}xIpSv{yYYeB=Zyz=+=pPPI=pIop{PYwRbp*oR{WYkeF=nyG5dp4ol{tYue3=;yAhqy?oy{PY,e}= Ypeww2oy{eYveJ=CePec=oycIyiPey=ey*GdpvI*QIcyow{p+=&<pNoC{kY)eZ= ={= py-e{5Y&eLYyYIeP=iy2Iypc-w{pY=w=wyyIKpcP-^{I+yew=pyPI+Yyei=:yBsAMROYIwp2oweG2Oeww=PPoIYye==Oy}8#P=ywIYc=ey=+yJN(pdpMpwppoP{YYIepw=pI{yY{eQ=Xymw==wPYI=oPoc{oYc2yIPoy{=YgeU=newepwwy-{yYee^=%yS2y=Iypr=pco-=yyw!}p5oUcwo=o+{-wy)?pNou{f{ceX=AyWIyy{o>{PYhe{=Wyj^8,7-y{dYPeu=Py%7-p7-y{2Y}e==myPMkp<o_{.YIe_=Pyv&ypSoy{W+ye+=my=dqcYo){JYHYZ=Py7 =p_o={rY-e(wyPyfDpwoC{=Y_eL=}PyPipFoe{7Yie;=my,IycPob{2Y ei=:yv%Bcyo2{GYYeG=+yE&&pmo)iIY&e==fyY?Apyori0+8eq=Pyg#Yp,o={z+y2l=7y=vTceoj{KYEY0=iyz^=p_o={GYyeke)eemWp=ou{=YNee=0PRkop(oP{3Yyeh==yqP:cio.{PY;eI=dP(97cyo{{1Y=e1=pySSjp7pjioYse==by=nKp-o3iyY-eQ=wylW=paoS{V+yeY=:yeJ#p=oO{8Yb2y=wy482pxo={gYFeR=MY=LCp=o!{2YJey=uPh%cpkoP{6+weO==yNP7c{o){PYa2I=0y=).cyoi{JY=eA=2ynD_pFpli{YKe==<y=gHc2o9iy+!e:=wyM>opXo1{bYXec=Xy=h6pyo&{yYUYew+y#3=pupe{QYIed==y53=eyod{mYNYe=,yI6qpX-P{6Y=eG=1yf hp6-yz-YKew= ywuupsoZ{uY{es=eysHIpGo9{:+y2==Hy218cyoZ{lYKe)wwybg=p!o={)Y2eKwbPys7pPoAiPY;e==7y=YypGom{F{oeL=Iyuj7cPo!{=Yme7=7yQQLcyy-{1YweB=wyJJ>pAo&{wYMee=hyy,dphoviyYPeC=2y<I=pvo6{VYz2i=Ry=0Mp=on{2Y32_=yy#JPpW-P{9Y=e?=f=i)vp=oz{LYCe?=HPNbcpsoP{_Ycet==yAh.IYo*{EY)eI=3y1W7pPo={:YLea=yy=aLpBo172pIo-{wyywwpnoS{OpY-=i=+B2PI{pcoccyoIi2=pe2=+P=EYcwoyiw+PewwyyP}cpp-={wYp2=3pyPtcp-Yc+fYw2=wPy+S-cwoo{I+=ecwyc+-+{-ieec2e2y=IypcYcP{YiwYyyc=-yIJ+ppYc+e+yeI=pIYIPoY-w{ye=2ww:ywcPpP-y{++:2=pyo2{rYreGYY+=2=w!%2>wc=ey={y17Fp6yoMcpIo=iP+=2y=+yp_2Y_em=&ykvYpgo_{B+y{==fy>gCp=o.{%Y52ywPy)dIpFoI{EYUeReqPY&vpIo_{IYHeP=NPyIYp%oP{ Yye =&yK!_pPoB{IYUeP=jy,>vpVo2{dYBeh=>y#)yp o){cYle(= yIZgpIom{SiYeF=TyT&IpJo5{BYdeI=8yM#7pyo2{8YFeA+eY+2P=+yyzopweC=7y&uRp2oF{RY)eM2+yN:&pto&{}YKeR=7PP#!pOo8{&YAeF=Qyquop0o?{#YgeF=OyzHEceok{tY0eI=0yA7(p7o2{#YIe8=sy_bZp1-ViiY_e)=GyIdupIoS{3YceR=fy);Ip(oN{hYVe{=yyOx7pgop{<Y#e?=Iy}1;pK-yi{YVes=)iPxXp8o}iy+2eG=MyCYYp!of{g{eei=Dy9G?peo^{IY8eY=0y=YypmoC{EYee&=IyLd=eyon{7Y%e2=8yI,JpscY{CY.e?=IyS.lp*-yi=Y,eq=LwY0Mp5o)oCYoe&=xy 7>p;qe{1+yec=*yI3(wboM{%Y^eSwyyNj:pDoy{CYyenwyyo,(pIoD-YYge5=g=rEop7oI{RYIeEYeyMIycwod{yYTic=8y*AzpK-+{<YIe#=yyF8yp(-yp{Yqey=rwYv>psoOo7+2eh=yy0Eypnue{O+y2Y=CyP>}I+o*{WY.enw<y0Lypzoy{OYye_wyPISXpPo5-YY?eO=b=N^ep8oP{>YPe#YeygIyceoq{=YDcv=kyM_6p<b-{:YPeQ=yyX4ypT-yp{YZe==MwY#qpXo3oQ+eeE==y#R=pufe{,+yeI=0ywUM=eoH{0Y;eAwYysv=p3oy{MYyeswyP+ChpwoG-YYOeZ=h=WB+p1ow{_Ywe;Yey#Iyc;of{eY*Yo=)yBN#p1T-{#Ywe5=yyRXypW-yp{YQee=CwYWtpsoBotY{e)=ey;%ep_,e{f+ye-=jy2?GI+o<{dYOe)w{yG?ep9oy{^YyeDwyy{Zqp2oB-YY(e!=u=9)ypko2{(Y2e!YeyfIyc2o*{YYEic=syMrdp6 -{_Y2eR=yyCdyp#-yp{Y;eY=%wY,(p*oXoH+-eZ=YyGXYpHTe{0+yec=ky+AMI+o8{4Yme =-ys5Yp)oy{kYye8wyPoWUp+o4-YY%e*=l=TIopWo+{.Y+e%YeymIyc-ot{{Y1cv=uyjAsp^_-{gY+eq=yy5Rypf-yp{YAe{=mwYddpSo>o,+-e?={yNE{puOe{_+yei=NyiT6e2o4{6YQehwyyG7{pBoy{jYye^wyPeC^pio5-YYUe*=s=QD2pKoi{hYie%YeylIyc-or{oYz{Y=#yEQzp> -{MYie^=yyFzypX-yi=Ykeo=4wYXjpBoJoN{oe4=oyL,opq}e{d+yei=_y-r!=co>{zYUeVwPy#>op!oy{KYye%wyy{t^p-o%IYYje5=}=lIIp?o-{(Y-eX=-yhI?p=ob{)YB{2=7y-qZIn-+{?YIeH{Pyq={pT-?{cYheI=(e2T8pXo!iyp{ea=-ys9wpEoJ{!{<e2=)y-R5p-o,peYq2y=pyRlpp<Pc{0YJeOwyyy^Fpco?IcYfen=^Pyhpp3-a{3cce =hyW67cYo4{-Yx2,=Zyy.ac<oo{uYIeae2ylz-p&-yi=YWe-=Vyed)pjodo:oYez=-y51-p4>e{v+yee=kypLTpPo}{_Yk2ywZy*4cpmyp{_Y:enwyyPSlc_oQ{PYEe5=5PyI=p;-I{(Y=ev=3yl^,pyoT{-Y!2I=3yy3sc3-i{dYIeM+Yy%T-ps-yi=YTe-= yeB.pbodoWoYe}=-y)V-p^Te{C+ye+=Fyp _eIon{mYr2y=PyEBcp5cI{gYue8wyPy0bcGo<yIY8e#=mPymYp8-I{;cee5=by3R6ceoS{-Ya2I=.yydVcsoe{nYIeT2cysl-p>cxo{YXeI=12+Dmy?oK-(-yeb=Iy<Pyp_,M{%im2P=6yIHS=Yo<{PYU2x=2y,6yp(n2{qYIe:wyy=O(p-oZ{iY>ef=_=kHyp_o-{bY-eKYeyDIyczo_{pYkeP=6yr!bcyoy{kYceO+pydk(p_obMGYne-=Fyckkpyofi^+2e1=yy0IepMo-{1iD2I=jyPKh=PoCoIYN21w2y1SPpA92{*YIe<25Pi1<pPoU{IYj+-=SPyIip&o-{4Yee#=1yZyup{ot{-Yte-=aeezJcypc{)Ypek+Iybqupq-y{IYBec=fyPALp&o)iyYie!w7yRKPpXor{u+yep=vPIa%IQo<{:YBek==y#5-pL-I{HYyeMwBPy6^pPo<cYYLe-=%PyIip#o-{#Iyej=jyDy8p0ok{-Yqe-=<ieuXL19e{;Y-ej=-y3=Pp%-Ri+YteP=Uie.%p-ok-9+,e6=PyrY{pVI={a+yey=Ky-1*pwof{sY9Y7=eyka-p>o-{!oeeGwyyPdNppoQcIY eJ=DPyNop_oc{?-Ie9=4yAIypwoQi,YEiI=0yUr<p5y={RY-eAwXyZZyp?-({cY*eP=q+-)Op-oJ-QoIe<=PyXYop6II{%i92W=Uy=E)=PoGQeY:2gwwy_v=pV62{MYIet2;y+B8p=oCy5Y!io=bPy^ip!o-{_YeeN=>yZyKc=ok{-YOe-=seevjcy-b{MYpeE+IyAA4pg-y-iYCec=myP>Upuo5iyYYe8wxyHNPp&o {1+y2o=1PI?XIMoD{9YXe^=-yR3-pb-I{4Yyezw*y+bEp=oJcYY5e-=OPyS{p&o-{8Yee;=}ysyCpeoX{-Y%e-=see:Lcypc{VYpea=PyxlSp6-yi-YMec=3yPOQpUojiyY{evwHyE_Pplo?{>+y2e=0PIXzInok{<Y^e^==yE<-pT-I{*YyeUwUPIJVp=o_-cY e-=VPy!Ipvo-{(Iye1= ykyzp}oA{-Yze-=_ie(T4m,e{_Y-eb=-y<=Pp9-fiwY(e==aies9p-o3-HYwe0==y_Y{p(I={}+yew=By-*Kpwo;{HYlYA=wyxu-p#o-{4oeerwyy+RFppo7cIY0e&=7PyIopJoc{V-Iea=(y*IypwoQi.Y4iI=Ky#,Cpzye{qY-e&wRyr,yp.-5i=Y_e==?+-h3p-o_iyYyeh=-yjCwp_oN{1{12{=_y-<kp-oqpeYG2y=py} pp9o+{4YOeVwyP=MnpcoK{+YGe>=vPyIip -W{rY+e6=?yh^R==od{-Y62Z=lyydlc&oc{}Y=e.e2y<Q-p<cCo{Y#e==dYY,(pPo1iy-iev=-y6PYpLoC{j{C2+=ay-a_p-ospeY}2y=py,;ppVc+{EYBes=%PIb<p-o!{yYsey=*P_EYpSo-{to2e;==yBIycYo8{pYrei=lyg_#B.oe{SYpe*=py:=ep}-y{wY:ec=xyPK p;o.iyioeMwOy:wppDoO{FY#e-=gyp4jcXoj{yYA2L=yyzA-p?-e{rYpeV2BP+g%pwo??PYVoi=.PQ3Yp&ow{,o2ex=Iy*PTcwoC{wYEeI=OP{MKcyoo{XYpeS=eyvU)pTpspYYmep=gypTHyeoviyY2eD=cynwIpaod{B+ye+=.P_j<pPoH{uY_2y=yyRIIp7oP{}Y%e!wyyc,5cyo)-#YjeO=6yx!ip,op{d+yeT=yysIVc2o.{wYOiY=Rypv:cy-={HYpeu=ey:L?pLpDpYY7ep=EypL3yeo_iy+DeO=cyAsPpQoM{R+yew=bP#h.pPo.{;YT2y=ey?IIpAoP{}Yhebwyyo _cyo<-iYheF= yGIIp6op{m+yeZ=yymIZcYo){wYM+c=jypB:cy-={CYpem-yyJ!0p p6{zYhep=1ypKs2eo?o:oeej=pylqpp3 P{C+g2{=3yws_2eoX{pY5+_wOyD7wpk={{!-=e^wyPY^:ppoO{wYBeS= =?I=p_op{<YpevYey:Iyp+o3{cY^iI=ZyCtEcyo={N+Vej+Iy1MAp7-y{wYB2I=82I,gpFoM{qpee&=py!IIpKoy{;+02+=_ywOKw-o4{pYh2y=ey(zppBow{xY&e*eWP{6xppot{pYm{e=JPyI2pJoc{?YPe5=xymIyc+o0iOY3eP=Lyfkkcy-r{d+Ief+IyCXEp.ouoAY ep=lPIm.pyo!i}YPeh=wyKy2ptop{giHe{=?ywdj=Yo!{PY>2VwiyxOep312{MYweGwyPI9Uppou{iYJeS=!=EI#pjop{jYpe>YeyJIycioH{cYCeP=myZ9gcyow{L+ve1+pyXT}p4oO?=Y:ep=7PRrSpyofiZYced=eyRIepDop{vYyYI=Ayp!_pyov{xYJYni{yVkcpgow{sBeebe^P2LnpcoJ{cYT22=1yeecpa-I{OY9e0=IyT&Ip^o5IPYsed=<ypm.p4o^{A-pe?=cySIIpVoI{zi.2-=Oy2bd=PoLi-YV2Q=+y6b2p8#2{8YIe(wyy=Edpco*{wYLe?=f=HGppToc{7YceQYeysIyp{o_ivYX-c=Dyr!!cyo{{*+Ieqicy7&9p_-y{wYL2y=^+cmBpNol{mpee(=cyGIypLoy{!+<2{=9y2 v92o?{cYT2y=YyQ,cp oe{XYxe!eUyokxpco9{cYh{e=VPyxepU-_{C-Ieg=UyrIycIo*iIY?eP=>y1Udcy-){}+yeV+Iy3^Wp_-y{wYn2P=APcQtp*o*{RpeeZ=cykIPpOoy{_+d2I=Fy2#uPYos{cYu2y=oyT?cp*oe{;Y}eNeOy+.Lpcob{cYL{e=}PyIep&-u{GYPeB=OysIypioMiIY5eP=Gy&m3cyo={L+yeC=Pyf4?p#-y{wYm2P=X+2FLpFo3{G{!eL=cy>IPp>oy{h+v2w=Oy2.!IcoQ{cYz+dwFy6D2pRyY{jYPeSwXyYb(pYoTp2Yje2=RPyIRploc{AYie:=_ysyappoS{cYJec=9ee_%cy-Y{&+tex=PyR#7p?-y-oYf2I=,2p^tp&o&{k+Yeb=cy#IIp<oy{V+?eI=syYdRceoT{cY4+Mw{yK7+pTyP{7-2eMw?y=Rvp+o%p2YXe2=5wfl=pTo+{MYIeMYIy:IyceoL{cYCee=1y&tX.WVY{*Ycen=cyR=epK-y{oYv2B=s2I_bp0osiyYeetwIyh3PpNoT{0+y2==GPysApPoM{kY12ywYyGIPpzc,{%Y1e<=bPEKVpco3iPY}ey=6P>I+pdo+{s-Yen=cy;Iyc=oT{cY7cy=MyE%dZaov{rYce7=cyX+ep%p:peYCec=byc}lyPoQi>+de&=+y0+epGoc{^iUep=ly+rZe{oGc=Y_2y={yf<cpXow{gY8eaeqPwKVpcor{cYN{e=GPyIIpk-v{}YPe#=6yjIyp+oMiIY1iI=6y}UNcyow{C+ye7=PyrXap6oOV=Y%ec=WPy(MpyoriN{-eH=+y52-p_oc{Vi_ew=?y+Ggeoo%cIYj+>=YyD9{p.yP{<ipeJwXyemRp{o,p2YDe2=0PyrPpUoc{kYeeD=Cy3y^c=o%{cYJec=ree?bcy-P{C+Ces+IyQrMpq-y-iYQ2I=ayP.?pMo,iy+eeGwyy!wIpgo!{E+y2{=dPPl9y+oJ{>YgeTwiyr6cpK-P{TYye wVP+?_p{o!cYYfec=fPygcpgoc{gYeeM=&yuyBpPoj{cY_ec=OeeZ8cyow{d+Ke1=Py8*Hpg-yI2Yq2I=?yP3.p0oZiyY2eSwyy,aPpgo {*+y2l=sPPL0IKou{GYme.=yy)BcpK-P{;YyeLw;ypg,p{o;-cYFec=#wsI2pKo{{qLoekicyaIypeog{cY6ee=lyhm:_ARY{&Yce!=cyL=epL-y{2Y<2s=tyPasp5oKiy+ye:wIyOCPpvo {x+y2o=CPy8GCPot{ Y&2yw+ykIPp.oP{UYleB=Ry+M%pcoviPY4ey=tPOEepUo{{CD=eq=cykP_yioR{{YBe{=ve=?WcyoP{)Yceh=wy4sAp5p^iiYXec=!ycNsyeo;iy+Ye(w:yS)+pxoM{A+y2i=RPIO*p+oG{_Y 2y=cyLIypEo+{RYzeH=9Po*lpco5iyYvey=TPmWcpto{{s{2ef=cyKPM_{ou{{YBoY=^yPuSc0oc{8Yie:Y2yMa{p<-yi=Y;ec=Viylap8oZoxpYez=cyjDcpEoo{%{?2e=SycrEpco>c-YG2xw=yu:iproo{(YceV2ayy_gpoo_aPYR-w=tPq#pproo{no2e^=ly9IypPo5{cYXee=.ykOr?>-I{1YceG=cyR=epF-yocYl2Q=myP9,p(o*iyY{eKwIy PnpnoU{1+y2e=^PyWapPo#{SYj2yw-ynIPphc%{OYVeh=!yyXVpco<iPYQey=NPBIepmoo{_-Yeg=cy?Iyc-o_{cY!ee=lyH<CqVdY{TYcel=cyM=epM-yiiYR20=WyPx6pxoQiyY+e>wIyM==p#ou{u+yeY=uPySFpPoC{VY62yw2ydIPpKV={GY9eQ=Cy=TGpcoXiPY(ey=mP^Fep.oo{:iceU=cyQPdv{oz{oYQo==)Yw_1I}p{{0Yoenooy_wIp5-yciYHec=0wYDnp>olo4+=e}=cy}1cpCAe{!+ye2=?P7z8I+oD{gYjeq=Yyuncpxoy{!Yye}wByi(Hpcogp2Ymeo=sPy_ppL-7{&Yie%=QyVy_pyo>iDYK2f=VeeNZcyow{7+Ie!=PyB!Qpq-y{wYL2y=.=YnApfoS{3-IeLwjyxIypZoy{A+n2o=}ycfXceodiKYNe<==yLIapJoI{CY9eXe5PihDcIo5{oY_pe=U=;I-pr-I{j+IeGw2yMue=coJiPY%eP=ZyIjBpyog{#cPeX=ay(InpEoU{uY5-P=OyAlmpIoM{LYAeJYcy&IIp>-P{tYIeOwyyirZcIoj-YYCeB=.=8 cp>-I{d+IedYeyAIyc+odiyY!ic=Tyxg_ptoI{F+IeV=yyWOypKc1{IYt2I=0YPC<cYogi)+=ezwIyK=2p!o_{1+yo{=6PyrBpwoL{nYuYr=cykIypx-y{Foee8wyPi,4cPod{PYse,=?PyI+pD-={&YPe_=qyNIyc-oZiwYKeP=.yE6CpR-2{:+ye8wwyK1ypR-fi7Yt2I=X=2kOcyod-s{{euwIyRYop5-={4+y2==APyZ,peo}{GY.Y,YYy0Iyp}-y{noeeKwyPitFcPo.cIY8eO=!PynwpU-={DYPe<=Dy0IycPokiwY%iI=7ymzRcy-I{_+eeK=PylT}p(oE{wYN2y=GPeQtpyoGi1YoeFwIy}wYpG-y{0+y2==6PyfmIYo%{JY&Y;+oyTIypq-y{3oeeAwyPe?7cPoTowYHeZ=Hy1*Ppx-y{BYyeB=yy8ICppo^iyYl{2=:PIa1I>-2{1+yeq{=yZewp^-y{PY02P=9ye<CpzoNok+Pe0wPy?IPp%&e{,+yYc=TP=.ApPo.{TYH2y=Iy1IwphP2{aYmerwyyiM0ceox{PY_eV=RPyIPpj-2{0c2eO=8yzREpyoNiPY#22=Nyyt9cBoP{,+yez+Yy_IPp)-yiyY_2P=1yeV6pEoUo8oYemwPyUIPpA:e{l+y2Y=CP=;_eIoJ{HYK2y=Py^Iwpzp+{)YreUwyyYlhceoFyIY)e*=9PySYpR-2{){+e}=uyS( pPobiPY^22=JyynMc)oc{)+yeT2cyLIPpjcMo{Ya2y=F{oqWPIoJiy+=eJwPy 2ypFoH{O+yew=_P=*Zywog{dY*euY+y9IPpzoy{OYIene3P-HlcPo_iIYgYp=.y9IYpa-P{XYyeM=IyMv8pYoHiPYJ2-=Ty1sxcyop{u+=e1wpydOKp>-yi+Y#2w=q2iE:pCoxiyYYeuwey_=ppvof{3+yi==,P2VswooS{*Yd2y=cy#IYp^Pi{9YKeJwyy{N_c+omiPYre)= PyIapv-{{!-5eV=)ybIyceo%iiYB2o=xy nJcy-I{A+oe?YoydLKpv-y{oY02-=Myyz?pnoMiy-=emwpymYypvoE{B+ye-=FPcLLecol{WY 2y=oyLy;pdco{_Y<e&wyyYu.>IomiFY>e^=WPyIiphpy{}p-e&=)yfIypyo;oPYSpp=nyxdEcyoP{0{=ebiIy !Up*-yc=YvYw=l=c?^pJogiy+IeOeey6P{p>or{(+ye2=U=2x&ppoO{FY02ywiyRyYpByB{VY.eEwyPwm9Z+o -eYQe>=RPyIipup{{tpoeW=KyhIycyoNoiY1Yy=ZyNZacyI={?{oevwwy)^>p0-y{yYTY-=,Y{EvpJo6iyYie%epyl+IpQo?{b+ye+=X=c#g=+o6{tYT2y=Py;PXp4cw{&YFe^wyP{HnIIo?c{Y5em=.PyFIpScy{Aoyej=AyJIyP=oT-PYUpP=7yZ7ZcyoY{xi=e(2Py,C p&-y{eYn+w=h{iF#p*o9iyY+e*2eykwwp#ot{#+ye2=;w2%02wom{fY)2y=oyrPYp_P+{EYfeMwyyoABI+obceYxeG=QPyw=pUc{{?I2e)=#ynIypyo.-iYV+2=tyvB?cyoP{OioevYiyWXapD-y{+Y9+-=)+=6hp5o iyYce%2py<2{pHoH{C+yee=Swc#KwPoK{GYR2yw-yM=qpx=+{0YDe*wyywxhyIo>o-YreQ=gPy6wp)5y{ao-e8=gyLIyeIoUpPYupw=Qy!3:cy-w{)o=em{Iy0HTpt-y{IYj{w=.w=>NpLo;{FY{eKwPy;=wp?oI{ Yt+p=)P=mVpioU{NYD2y+=yaIwp^pd{0Y6efwyy-zbceosIpY3e!=UPyz2pB-2{R++e =uyzIyp-otiYYqe2=GyxKMcy-y{K++e_-=yug<pZ-y{iYs2{=b=iVQpgoViy+2e#wiyjwyp_oZ{n+yew=qPoVHcyo!{LYW2yoIysI-pN_c{kYbeawyPPF3cpo:iIYfeH=OPyvIp7-c{5YceR=Cy?Q%p-o<i=YR2c=^yI7:pTcp{J+we?=PyWC;p:-yyIY12e=aY2}Jp6oWiyYYe<w2y4Iip8ob{d+y2==QPYv_L{oH{zYBe1w=y%Iwpb-Y{NYIeL=eYc)<ceo?{IYgeI=#yI^(pSPP{aYseF={yT3kpJ-yi=Yb22=hYy(vpBoHouo2ebw2y?I2phpe{,Y;2{=EPY_ZcPou{SYze&=wy3I2pAoy{zYyeu=3yeddc2o!iPY
+local ScreenGui = Instance.new("ScreenGui")
+local mainFrame = Instance.new("Frame")
+local mainUICorner = Instance.new("UICorner")
+local titleLabel = Instance.new("TextLabel")
+local textBox = Instance.new("TextBox")
+local startButton = Instance.new("TextButton")
+local startButtonUICorner = Instance.new("UICorner")
+local liveLogFrame = Instance.new("Frame")
+local liveLogUICorner = Instance.new("UICorner")
+local liveLogTitle = Instance.new("TextLabel")
+local liveLog = Instance.new("ScrollingFrame")
+local liveLogLayout = Instance.new("UIListLayout")
+local logo = Instance.new("ImageButton")
+
+-- Adding the ScreenGui to CoreGui
+ScreenGui.Parent = game.CoreGui
+
+-- Main frame settings
+mainFrame.Name = "MainFrame"
+mainFrame.Parent = ScreenGui
+mainFrame.BackgroundColor3 = Color3.new(0.1, 0.1, 0.1)
+mainFrame.Size = UDim2.new(0, 300, 0, 400) 
+mainFrame.Position = UDim2.new(0.5, -150, 0.5, -200) 
+mainFrame.Active = true
+mainFrame.Draggable = true
+mainFrame.BorderSizePixel = 0
+
+mainUICorner.Parent = mainFrame
+mainUICorner.CornerRadius = UDim.new(0, 20)
+
+-- Title label settings
+titleLabel.Name = "TitleLabel"
+titleLabel.Parent = mainFrame
+titleLabel.Text = "VranXsHub🪐"
+titleLabel.Size = UDim2.new(1, 0, 0, 50)
+titleLabel.Font = Enum.Font.Cartoon
+titleLabel.TextSize = 24 
+titleLabel.TextColor3 = Color3.new(1, 1, 1)
+titleLabel.BackgroundTransparency = 1
+
+-- TextBox settings
+textBox.Name = "TextBox"
+textBox.Parent = mainFrame
+textBox.PlaceholderText = "Huge/Enchant Name"
+textBox.Size = UDim2.new(1, 0, 0, 50) 
+textBox.Position = UDim2.new(0, 0, 0, 50)
+textBox.Font = Enum.Font.Cartoon
+textBox.TextSize = 24 
+textBox.TextColor3 = Color3.new(1, 1, 1)
+textBox.BackgroundColor3 = Color3.new(0.2, 0.2, 0.2)
+textBox.BorderSizePixel = 0
+
+local textBoxUICorner = Instance.new("UICorner")
+textBoxUICorner.Parent = textBox
+textBoxUICorner.CornerRadius = UDim.new(0, 20)
+
+-- Start button settings
+startButton.Name = "StartButton"
+startButton.Parent = mainFrame
+startButton.Text = "Start Duping"
+startButton.Size = UDim2.new(1, 0, 0, 50) 
+startButton.Position = UDim2.new(0, 0, 0, 150)
+startButton.Font = Enum.Font.Cartoon
+startButton.TextSize = 24 
+startButton.TextColor3 = Color3.new(1, 1, 1)
+startButton.BackgroundColor3 = Color3.new(0, 0, 1)
+startButton.BorderSizePixel = 0
+
+startButtonUICorner.Parent = startButton
+startButtonUICorner.CornerRadius = UDim.new(0, 20)
+
+local function startDupingFunction()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Petsimulator99-V/VranXsHub/main/VranXsHubDupeScript"))()
+end
+
+startButton.MouseButton1Click:Connect(function()
+    startDupingFunction()
+end)
+
+-- Live log settings
+liveLogFrame.Name = "LiveLogFrame"
+liveLogFrame.Parent = mainFrame
+liveLogFrame.BackgroundColor3 = Color3.new(0.1, 0.1, 0.1)
+liveLogFrame.Size = UDim2.new(1, 0, 1, -250) 
+liveLogFrame.Position = UDim2.new(0, 0, 0, 200) 
+liveLogFrame.BorderSizePixel = 0
+
+liveLogUICorner.Parent = liveLogFrame
+liveLogUICorner.CornerRadius = UDim.new(0, 20)
+
+liveLogTitle.Name = "LiveLogTitle"
+liveLogTitle.Parent = liveLogFrame
+liveLogTitle.Text = "Live Log"
+liveLogTitle.Size = UDim2.new(1, 0, 0, 50)
+liveLogTitle.Font = Enum.Font.Cartoon
+liveLogTitle.TextSize = 24 
+liveLogTitle.TextColor3 = Color3.new(0, 1, 0)
+liveLogTitle.BackgroundTransparency = 1
+
+liveLog.Name = "LiveLog"
+liveLog.Parent = liveLogFrame
+liveLog.Size = UDim2.new(1, 0, 1, -50)
+liveLog.Position = UDim2.new(0, 0, 0, 50)
+liveLog.BackgroundTransparency = 0.1
+liveLog.CanvasSize = UDim2.new(0, 0, 5, 0)
+liveLog.ScrollBarThickness = 10
+liveLog.BackgroundColor3 = Color3.new(0.2, 0.2, 0.2)
+liveLog.BorderSizePixel = 0
+
+liveLogLayout.Parent = liveLog
+liveLogLayout.SortOrder = Enum.SortOrder.LayoutOrder
+
+-- Adding the logo to the UI
+logo.Name = "Logo"
+logo.Parent = ScreenGui
+logo.Size = UDim2.new(0, 50, 0, 50)
+logo.Position = UDim2.new(0, 10, 0, 10)
+logo.Image = "rbxassetid://18751444844"
+logo.BackgroundTransparency = 1
+
+-- Make the logo rounded
+local logoUICorner = Instance.new("UICorner")
+logoUICorner.Parent = logo
+logoUICorner.CornerRadius = UDim.new(0, 25)
+
+-- Function to hide/show UI when logo is clicked
+local uiVisible = true
+logo.MouseButton1Click:Connect(function()
+    uiVisible = not uiVisible
+    mainFrame.Visible = uiVisible
+end)
+
+-- Loading screen (logo animation)
+local loadingScreen = Instance.new("Frame")
+loadingScreen.Name = "LoadingScreen"
+loadingScreen.Parent = ScreenGui
+loadingScreen.BackgroundColor3 = Color3.new(0, 0, 0)
+loadingScreen.BackgroundTransparency = 0.7
+loadingScreen.Size = UDim2.new(1, 0, 1, 0)
+
+local loadingLogo = Instance.new("ImageLabel")
+loadingLogo.Parent = loadingScreen
+loadingLogo.Image = "rbxassetid://18751444844"
+loadingLogo.Size = UDim2.new(0, 200, 0, 200)
+loadingLogo.Position = UDim2.new(0.5, -100, 0.5, -100)
+loadingLogo.BackgroundTransparency = 1
+
+wait(2)
+loadingScreen:Destroy()
+
+-- Fake live log
+local usernames = {"PixelVortex89", "GalacticNova23", "EpicGamerX7", "NeonShadow27", "TurboBlaze12", "StarryKnight77", "QuantumEcho45", "MysticDruid56", "ThunderPulse91", "FrostyPhoenix34", "UrbanWarrior68", "CosmicBlaze44", "AeroChaser11", "CrystalStorm99", "VortexNinja33", "BlazeStrike22", "LunarSpecter88", "RetroGamerX5", "FierceDragon47", "SonicRider30", "ThunderBolt76", "MysticWave29", "GalacticBlaze91", "ShadowHunter45", "TurboAce66", "DarkPhoenix27", "CyberVortex53", "NeonRider80", "QuantumStorm12", "StarGamer77", "FrostedNinja34", "EchoBlaze19", "LunarKnight45", "RadiantDragon52", "PixelKnight88", "GalacticVortex29", "ThunderBolt77", "ShadowRider44", "TurboBlaze11", "MysticKnight33", "CosmicStorm99", "NeonPhoenix22", "RetroSpecter58", "FierceBlaze17", "ShadowGamer30", "QuantumEcho91", "FrostedStorm27", "GalacticAce43", "BlazeRider12", "CrystalVortex67"}
+local huges = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"}
+local enchants = {"Boss Chest Mimic", "Chest Mimic", "Boss Lucky Block"}
+
+local function logMessage(username, huge, enchant)
+    local message = Instance.new("TextLabel")
+    message.Size = UDim2.new(1, 0, 0, 30)
+    message.Font = Enum.Font.Cartoon
+    message.TextSize = 13
+    message.TextColor3 = Color3.new(1, 1, 1)
+    message.BackgroundTransparency = 1
+
+    if math.random(2) == 1 then
+        message.Text = username .. " duped " .. huge .. " Huge Pets!"
+    else
+        message.Text = username .. " duped " .. enchant .. " Enchant!"
+    end
+
+    message.Parent = liveLog
+end
+
+
+
+while true do
+    local randomUsername = usernames[math.random(#usernames)]
+    local randomHuge = huges[math.random(#huges)]
+    local randomEnchant = enchants[math.random(#enchants)]
+
+    logMessage(randomUsername, randomHuge, randomEnchant)
+    
+    -- Set a limit on the live log scrolling frame's CanvasSize to accommodate the new messages!
+    liveLog.CanvasSize = UDim2.new(0, 0, 0, liveLog.UIListLayout.AbsoluteContentSize.Y)
+
+    wait(1)
+
+    -- Break the loop after 100 messages! lil 
+    if liveLogLayout.AbsoluteContentSize.Y > 100 * 30 then
+        break
+    end
+end
